@@ -20,7 +20,21 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Features
 
-Track Daily expenses
+Track Daily Expenses
 Add new expenses
 Delete an expenses
+
+## How To Run The Application
+I used the VS code
+# To Run The Flutter Code we have to Set up a Physical Device
+1. For both Android and iOS, you can connect a physical device to your computer via USB. Make sure USB debugging is enabled for Android devices.
+2. After setting up the physical device, go to the status bar -> No Device -> choose your Device's name.
+3. Go to lib -> main. dart the file and open that file.
+4. Go to the primary side bar click on triple dots and select Terminal -> New Terminal.
+3. Execute following command :
+        flutter run
+        OR
+1. Do steps as above up to step 3.
+2. Go to the primary sidebar, click on triple dots, and select Run -> Run Without Debugging.
+
 
