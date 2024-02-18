@@ -2,12 +2,12 @@
 
 A new Flutter Project.
 
-a mobile application for tracking expeses . This app can run both on IOS and Android. Made with Flutter.
+a mobile application for tracking expenses . This app can run both on IOS and Android. Made with Flutter.
 
 
 ## Getting Started
 
-This project is a starting point for a my Flutter application.
+This project is a starting point for my Flutter application.
 
 A few resources to start this Flutter project:
 
